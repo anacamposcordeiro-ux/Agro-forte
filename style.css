@@ -12,10 +12,12 @@ body {
 }
 
 
-.h1 {
+h1 {
     color:rgb(0, 0, 1);
 }
-
+h2{
+    color: rgb(160, 193, 255);
+}
 {
 
     color:rgb(97, 187, 187);estre
